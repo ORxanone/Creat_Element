@@ -1,0 +1,29 @@
+#main {
+    width: 100%;
+    min-height: 400px;
+    float: left;
+}
+
+#footer {
+    width: 100%;
+    min-height: 400px;
+    float: left;
+}
+
+.sty {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    margin: 5px;
+    float: left;
+}
+
+.sert {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 5px;
+    float: left;
+}
